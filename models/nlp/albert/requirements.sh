@@ -5,6 +5,6 @@ pip install --no-cache-dir \
         colorama==0.4.3 \
         pandas \
         apache_beam \
-        pyarrow==0.16 \
-        git+https://github.com/HerringForks/transformers.git@nccl \
-        git+https://github.com/huggingface/nlp.git@703b761
+        pyarrow \
+        git+https://github.com/matherit/transformers/.git@python-39-fixes \
+	datasets
