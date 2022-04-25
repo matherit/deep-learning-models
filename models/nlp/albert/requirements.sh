@@ -6,5 +6,5 @@ pip install --no-cache-dir \
         pandas \
         apache_beam \
         pyarrow \
-        git+https://github.com/matherit/transformers/.git@python-39-fixes \
+        git+https://github.com/matherit/transformers.git@python-39-fixes \
 	datasets
